@@ -1,0 +1,11 @@
+<mjml>
+  <mj-body>
+    <mj-section padding="24px">
+      <mj-column>
+		<mj-text>
+            {{{content}}}
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
